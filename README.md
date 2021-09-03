@@ -1,5 +1,5 @@
 # Hi, I'm Rishikesh 👋🏾 👩🏾‍💻
-I'm Rishikesh, an enthusiastic student pursuing my final year bachelor's degree in computer science and engineering at Aryabhatta Knowledge University. 
+An enthusiastic student pursuing my final year bachelor's degree in computer science and engineering at Aryabhatta Knowledge University. 
 Being a quick learner and hard worker by nature, I do not shy away from taking on new, challenging roles and responsibilities.
 
 I ameliorate my skills with numerous certified courses in Coursera and HackerRank.
